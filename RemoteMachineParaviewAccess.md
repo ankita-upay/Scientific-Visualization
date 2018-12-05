@@ -49,5 +49,12 @@
   * Putty is an SSH client that you can use to connect to a machine running that service -- it's relatively secure but you only have a CLI and no GUI. 
 
 ### Establish connection to Paraview
-** This is only required if you are accesing the remote machine via putty or terminal 
+  ** This is only required if you are accesing the remote machine via putty or terminal 
+  * Go to mac default directory
+  * ls -> cd Applications -> cd ParaView-5.6.0-RC1.app -> cd Contents -> cd bin 
+  **cd Applications/ParaView-5.6.0-RC1.app/Contents/bin**
+  * you should see the foloowing screen
+  * figure
   
+  
+
