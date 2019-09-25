@@ -1,0 +1,8 @@
+# This document contains my study with the 2004 IEEE Viz Contest Data.
+
+## Dataset
+* Can be downloaded by using 
+ wget as follows % wget -r -nH --no-parent --cut-dirs=2 https://cloud.sdsc.edu/v1/AUTH_sciviscontest/2004/isabeldata
+* More information regarding the data can be [!found here](http://sciviscontest.ieeevis.org/2004/data.html)
+
+##  
